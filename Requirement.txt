@@ -1,0 +1,7 @@
+pandas>=1.5
+sqlalchemy>=1.4
+mysql-connector-python>=8.0
+matplotlib>=3.5
+seaborn>=0.12
+python-dotenv>=1.0
+jupyterlab>=3.0
